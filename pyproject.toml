@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "microvan-analysis"
+version = "0.1.0"
+description = "pca and segmentation walkthrough based on survey"
+authors = ["flapjackstan <elm.s.camargo@gmail.com>"]
+readme = "README.md"
+packages = [{include = "microvan_analysis"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pandas = "^1.5.2"
+
+[tool.poetry.group.dev.dependencies]
+spyder = "^5.4.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
