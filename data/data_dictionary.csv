@@ -1,0 +1,38 @@
+﻿variable,description
+kidtrans,We need a car that helps transport our kids and their friends.
+miniboxy,Current minivans are simply too boxy and large.
+lthrbetrv,Leather seats are dramatically better than cloth.
+secbiggr,"If we got a second car, it would need to be bigger than a standard sedan."
+safeimpt,Auto safety is very important to me.
+buyhghnd,We tend to buy higher_end cars.
+pricqual,Car prices strongly reflect underlying production quality.
+prmsound,A premium sound and entertainment system helps on long car trips.
+perfimpt,Performance is very important in a car.
+tkvacatn,We try to take as many vacations as possible.
+noparkrm,Our current residence doesn’t have a lot of parking room.
+homlrgst,Our home is among the largest in the neighborhood.
+envrminr,The environmental impact of automobiles is relatively minor.
+needbetw,There needs to be something between a sedan and a minivan.
+suvcmpct,I like SUVs more than minivans since they’re more compact.
+next2str,My next car will be a two_seater.
+carefmny,We are careful with money.
+shdcarpl,I think everyone should carpool or take public transportation
+imprtapp,Most of our appliances are imported.
+lk4whldr,Four_wheel drive is a very attractive option.
+kidsbulk,Our kids tend to take a lot of bulky items and toys with them.
+wntguzlr,I will buy what I want even if it is a “gas guzzler”.
+nordtrps,We don’t go on road trips with the family.
+stylclth,We tend to purchase stylish clothes for the family.
+strngwrn,Warranty protection needs to be strong on a new car.
+passnimp,Passion for one’s job is more important than pay.
+twoincom,Our family would find it hard to subsist on just one income.
+nohummer,I am not interested in owning a vehicle like a Hummer.
+aftrschl,We engage in more after_school activities than most families.
+accesfun,Accessories really make a car more fun to drive.
+age,Age of respondent in years
+income,Annual household income in thousands of dollars
+miles,Total annual amount driven by household members in thousands of miles
+numkids,Number of children (aged 0_18) residing in household
+female,Whether or not the respondent is a female
+educ,"Education level of respondent (1 = High School, 2 = Some College, 3 = Undergraduate Degree, 4 = Graduate Degree)"
+recycle,"Self_reported recycling compared to average (1 = Much Less, 2 = Somewhat Less, 3 = Average, 4 = Somewhat More, 5 = Much More)"
