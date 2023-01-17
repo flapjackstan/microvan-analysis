@@ -1,4 +1,11 @@
 # Byte-compiled / optimized / DLL files
+
+# Mac
+.DS_Store
+
+# Data folder
+data/
+
 __pycache__/
 *.py[cod]
 *$py.class
